@@ -1,0 +1,26 @@
+{
+  "name": "injectjscss-template-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuikangjie/injectjscss-template-html-webpack-plugin.git"
+  },
+  "keywords": [
+    "html",
+    "wepack",
+    "css",
+    "js",
+    "template"
+  ],
+  "author": "cuikangjie_90h@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuikangjie/injectjscss-template-html-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/cuikangjie/injectjscss-template-html-webpack-plugin#readme"
+}
