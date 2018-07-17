@@ -33,7 +33,9 @@ plugin: [
 
 -   injectTemplateId  - number
     > when html-wepack-plugin is multiple, injectJsCssTemplateHtmlWebpackPlugin will through injectTemplateId match, and the options must be Array.
+
     > html-webpack-plugin option must add the same injectTemplateId
+    
     > example:
 ```js
 plugin: [
