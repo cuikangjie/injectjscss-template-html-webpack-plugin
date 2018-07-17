@@ -1,6 +1,6 @@
 # injectjscss-template-html-webpack-plugin
 
-> replace html-webpack-plugin generated js, css path
+> replace html-webpack-plugin injected js、css url
 
 > webpack1+
 
