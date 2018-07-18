@@ -9,8 +9,8 @@ function throwError(err) {
 
 
 injectJsCssTemplateHtmlWebpackPlugin.prototype.template = function (option, htmlPluginData) {
-    let js = htmlPluginData.assets.js;
-    let css = htmlPluginData.assets.css;
+    let js = htmlPluginData.assets.js || [];
+    let css = htmlPluginData.assets.css || [];
     // let htmlPluginDataOptions = htmlPluginData.plugin.options;
 
     // const id = htmlPluginDataOptions.id;
